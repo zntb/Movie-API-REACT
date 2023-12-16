@@ -30,6 +30,7 @@ function App() {
           title: data[key].title,
           openingText: data[key].openingText,
           releaseDate: data[key].releaseDate,
+          linkToMovie: data[key].linkToMovie,
         });
       }
 

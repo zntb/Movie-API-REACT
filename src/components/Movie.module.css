@@ -18,3 +18,12 @@
   margin: 0;
   font-size: 1rem;
 }
+
+.movie a {
+  color: rgb(250, 239, 193);
+  transition: all 0.3s ease-in-out;
+}
+
+.movie a:hover {
+  color: #f7e702;
+}
